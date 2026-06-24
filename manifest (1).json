@@ -1,0 +1,40 @@
+{
+  "name": "Block Crush - بلوك كراش",
+  "short_name": "Block Crush",
+  "description": "لعبة بازل ممتعة - ضع القطع وامسح الصفوف!",
+  "start_url": "/01/",
+  "scope": "/01/",
+  "display": "standalone",
+  "background_color": "#1a0a00",
+  "theme_color": "#f5c842",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
